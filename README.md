@@ -9,4 +9,4 @@ Absen : 19
 
 ## Gambaran Umum
 
-Repositori ini berisi kode sumber dan dokumentasi untuk jobsheet dan proyek algoritma struktur data yang dilakukan sebagai bagian dari tugas kuliah. Proyek ini berfokus pada konsep dasar pemrograman java lanjut menggunakan platform Apache NetBeans IDE.
+Repositori ini berisi kode sumber dan dokumentasi untuk jobsheet dan proyek algoritma struktur data yang dilakukan sebagai bagian dari tugas kuliah. Proyek ini berfokus pada konsep algoritma pemrograman java lanjut menggunakan platform Apache NetBeans IDE.
